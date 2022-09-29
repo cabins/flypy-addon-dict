@@ -1,8 +1,17 @@
-jpou    解耦
-nide    你的
-nijx    你家
-tade    他的
-tajx    他家
-uwde    谁的
-wode    我的
-wojx    我家
+enen    嗯嗯    1
+jiks    疾控    1
+jpou    解耦    1
+lmlu    链路    1
+ngng    嗯嗯    1
+nide    你的    1
+nijx    你家    1
+niwo    你我    1
+qrll    全量    1
+tade    他的    1
+tajx    他家    1
+uwde    谁的    1
+vynm    知音难觅    1
+wode    我的    1
+wojx    我家    1
+xgfy    新冠肺炎    1
+zhsr    做核酸  1
